@@ -2,6 +2,7 @@
 using System.Data;
 using System.Linq;
 using System.Windows.Forms;
+using HobbyManiaManager.Repositories;
 using HobbyManiaManager.ViewModels;
 
 namespace HobbyManiaManager
@@ -9,22 +10,24 @@ namespace HobbyManiaManager
     public partial class CatalogForm : Form
     {
         private readonly MoviesRepository _moviesRepository;
+        private readonly RentalsRepository _rentalsRepository;
 
         public CatalogForm()
         {
             InitializeComponent();
             _moviesRepository = MoviesRepository.Instance;
+            _rentalsRepository = RentalsRepository.Instance;
         }
 
         private void CatalogForm_Load(object sender, EventArgs e)
         {
             movieUserControl.Load(_moviesRepository.GetAll().First());
-
-            dataGridViewMoviesList.DataSource = _moviesRepository.GetAll()
-                .Select(m => new MovieDataGridViewModel(m))
-                .ToList();
-
+;
+            ReloadMoviesGrid();
             ConfigureMoviesDatagrid();
+            movieUserControl._refreshAction = () => ReloadMoviesGrid();
+            
+            
         }
 
         private void ConfigureMoviesDatagrid()
@@ -48,5 +51,18 @@ namespace HobbyManiaManager
                 movieUserControl.Load(selected);
             }
         }
+
+        public void ReloadMoviesGrid()
+        {
+            var list = _moviesRepository
+                .GetAll()
+                .Select(m => new MovieDataGridViewModel(m))
+                .ToList();
+
+            dataGridViewMoviesList.DataSource = null;
+            dataGridViewMoviesList.DataSource = list;
+            dataGridViewMoviesList.Columns["Id"].Visible = false;
+        }
+
     }
 }
