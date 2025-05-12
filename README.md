@@ -1,0 +1,1 @@
+Pracitca Git HobbyManiManager
