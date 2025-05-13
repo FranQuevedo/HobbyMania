@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|c:\\users\\yiyi\\source\\repos\\hobbymania\\hobbymaniamanager-feature-exam_dam1b\\hobbymaniamanager\\imdbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|solutionrelative:hobbymaniamanager\\imdbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\hobbymaniamanager\\imdbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|solutionrelative:hobbymaniamanager\\imdbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\hobbymaniamanager\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|solutionrelative:hobbymaniamanager\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\hobbymaniamanager\\forms\\movie\\movieusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|solutionrelative:hobbymaniamanager\\forms\\movie\\movieusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\hobbymaniamanager\\forms\\movie\\movieusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B5D1C41-488F-4284-831F-D6B7806D7B0F}|HobbyManiaManager\\HobbyManiaManager.csproj|solutionrelative:hobbymaniamanager\\forms\\movie\\movieusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImdbForm.cs",
+              "DocumentMoniker": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\ImdbForm.cs",
+              "RelativeDocumentMoniker": "HobbyManiaManager\\ImdbForm.cs",
+              "ToolTip": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\ImdbForm.cs",
+              "RelativeToolTip": "HobbyManiaManager\\ImdbForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:06:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImdbForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\ImdbForm.cs",
+              "RelativeDocumentMoniker": "HobbyManiaManager\\ImdbForm.cs",
+              "ToolTip": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\ImdbForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HobbyManiaManager\\ImdbForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:02:42.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "HobbyManiaManager\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\Models\\Movie.cs",
+              "RelativeToolTip": "HobbyManiaManager\\Models\\Movie.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowEQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:57:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs",
+              "RelativeDocumentMoniker": "HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs",
+              "ToolTip": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs",
+              "RelativeToolTip": "HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwFEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:57:01.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieUserControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs",
+              "RelativeDocumentMoniker": "HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs",
+              "ToolTip": "C:\\Users\\Yiyi\\source\\repos\\HobbyMania\\HobbyManiaManager-feature-exam_dam1b\\HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HobbyManiaManager\\Forms\\Movie\\MovieUserControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:55:16.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

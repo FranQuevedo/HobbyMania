@@ -82,5 +82,15 @@ namespace HobbyManiaManager
             var rentalForm = new RentalForm(Movie, this);
             rentalForm.ShowDialog();
         }
+
+        private void bnImdb_Click(object sender, EventArgs e)
+        {
+            var imbdform = new ImdbForm(Movie);
+            imbdform.ShowDialog();
+
+
+        }
+
+
     }
 }
