@@ -96,5 +96,11 @@ namespace HobbyManiaManager
             this.Refresh();
 
         }
+
+        private void btnImbd_Click(object sender, EventArgs e)
+        {
+            var imbd = new ImbdForm(Movie);
+            imbd.ShowDialog();
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿namespace HobbyManiaManager
+﻿
+namespace HobbyManiaManager
 {
     partial class MovieUserControl
     {
@@ -39,6 +40,7 @@
             this.circularProgressBarVotes = new CircularProgressBar.CircularProgressBar();
             this.labelVotesCount = new System.Windows.Forms.Label();
             this.labelGenres = new System.Windows.Forms.Label();
+            this.btnImbd = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPoster)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAvailable)).BeginInit();
             this.SuspendLayout();
@@ -173,10 +175,21 @@
             this.labelGenres.TabIndex = 11;
             this.labelGenres.Text = "labelGenres";
             // 
+            // btnImbd
+            // 
+            this.btnImbd.Location = new System.Drawing.Point(733, 223);
+            this.btnImbd.Name = "btnImbd";
+            this.btnImbd.Size = new System.Drawing.Size(170, 36);
+            this.btnImbd.TabIndex = 12;
+            this.btnImbd.Text = "IMBD";
+            this.btnImbd.UseVisualStyleBackColor = true;
+            this.btnImbd.Click += new System.EventHandler(this.btnImbd_Click);
+            // 
             // MovieUserControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.btnImbd);
             this.Controls.Add(this.labelGenres);
             this.Controls.Add(this.labelVotesCount);
             this.Controls.Add(this.circularProgressBarVotes);
@@ -210,5 +223,6 @@
         private CircularProgressBar.CircularProgressBar circularProgressBarVotes;
         private System.Windows.Forms.Label labelVotesCount;
         private System.Windows.Forms.Label labelGenres;
+        private System.Windows.Forms.Button btnImbd;
     }
 }
